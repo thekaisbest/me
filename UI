@@ -1,0 +1,199 @@
+<roblox!‰˙
+
+     =           META$   "       đ      ExplicitAutoJoints   trueINST#   >       đ        Frame   
+°BINST          đ   
+   ImageLabel       bINST.   \       ˙      LocalScript   "đ
+INST          đ   	   ScreenGui        INST   (       ý      TextBox   PV
+INST'   G       ˙   
+   TextButton   Ŕ
+"INST!   2       ˙   	   TextLabel   p8INST!   1       đ      UICorner   p"PROP          đ       Active           PROP'   l       đ       AnchorPoint
+~  , P     PROP*   H       đ
+       AttributesSerialize  P     PROP"           đ       AutoLocalizePROP$   B       đ    
+   AutomaticSize  P     PROPF   ť       đ       BackgroundColor3z ~{{}}{}}~á A‘A  `ä B”B , @PB”BBPROPF   K       ö)       BackgroundTransparency  ~ ~~~~~    ff fff  ™ š  ff fffPROP|   ™       đ
+       BorderColor3 {{  p{{{ ±±  ±  ŕ´´  ˛˛ ˛˛˛ ||  p||| QQ  Q   RR  RR RRR(    , ©©  ©© ©   ¬¬  ŞŞ ŞŞŞPROP!   ?       đ    
+   BorderMode  P     PROP,   D       đ	       BorderSizePixel  
+°     PROP&   $       đ       ClipsDescendants           PROP          đ    	   Draggable           PROP"   @       đ       LayoutOrder  P     PROP!   p       ˙       Name   Frame	 BPFramePROP.   F       đ       NextSelectionDown  
+°          PROP.   F       đ       NextSelectionLeft  
+°          PROP/   G       đ       NextSelectionRight  
+°          PROP,   D       đ	       NextSelectionUp  
+°          PROPt   Á       đW       Position}vvy}}~}}~|Pîî!aWR`WROÇśś+á
+ŕ
+ř”ôâ>ŚÜ>Śś~{|{~  ~   ćŘj     ĄËOťŠ  ˛   5’  ´f  ?P     PROP2   J       đ       RootLocalizationTable  
+°          PROP   =       đ       Rotation  P     PROP           đ    
+   Selectable           PROP1   I       đ       SelectionImageObject  
+°          PROP?   ˝       Đ       Size
+  WCn ł$,,0úú  C   °<Ľ000000<PROP%   C       đ       SizeConstraint  P     PROP*   n       đ    
+   SourceAssetId  6°PROP   :       ŕ       Style  P     PROP   9       Đ       Tags
+  P     PROP          đ       VisiblePROP#   ;       đ        ZIndex  
+°PROP          đ      Active PROP          đ
+      AnchorPoint
+        PROP"           đ      AttributesSerialize    PROP          đ      AutoLocalizePROP          đ   
+   AutomaticSize    PROP'   %       đ      BackgroundColor3         PROP%   #       đ      BackgroundTransparency    PROP#   !       đ      BorderColor3{±±´|QQR|©©¬PROP          đ   
+   BorderMode    PROP          đ
+      BorderSizePixel   PROP          đ      ClipsDescendants PROP          đ   	   Draggable PROP>   <       đ-      Image*   http://www.roblox.com/asset/?id=6932372129PROP"           đ      ImageColor3         PROP"           đ      ImageRectOffset
+        PROP           đ   
+   ImageRectSize
+        PROP           đ      ImageTransparency    PROP          đ	      LayoutOrder    PROP          đ      Name
+   ImageLabelPROP           đ      NextSelectionDown   PROP           đ      NextSelectionLeft   PROP!          đ      NextSelectionRight   PROP          đ
+      NextSelectionUp   PROP#   !       đ      Position~Ź•žz–1ś        PROP$   "       đ      RootLocalizationTable   PROP          đ      Rotation    PROP          đ   	   ScaleType    PROP          đ   
+   Selectable PROP#   !       đ      SelectionImageObject   PROP          ć      Size  P–   –PROP          đ      SizeConstraint    PROP   $       ö      SliceCenter  P     PROP          đ   
+   SliceScale   PROP           đ   
+   SourceAssetId       PROP          đ      Tags    PROP"   !       đ      TileSize    €        PROP          đ      VisiblePROP          đ      ZIndex   PROP(   `       ˙      AttributesSerialize  +P     PROP   "       đ      Disabled  P     PROP!   Y       ˙      LinkedSource  +P     PROP6         ˙
+      Name   LocalScript ˇż   Dragifyż PcriptPROPµ  Ý      ń.   
+   ScriptGuid&   {B401305E-C4D9-42F0-BA25-7210446CAE57}* ň5793E171-99E8-4049-BBCC-8C85278C70A2* ň0A8B4AF6-9A36-42A8-81BA-78D0003355D4* ň33B900A2-E7D7-4407-B164-58ECEEE7CD21* ó5F12064F-6196-4841-825C-AF0E899FD8D¨ ó2C6B2FC6-533F-4DC2-A59D-E3A85FB6FD9T ňF96E5016-F7F0-44A6-8EBA-1D66A41CDD66~ ňFDFCF48C-6ACB-454B-8E52-C3B9C75E38E8* ň48CBC177-4DE3-47F3-A819-1C16C909E839* ó0D95C112-BD48-4500-8539-30CE60A7F74~ ň70E9F7EA-2F3D-498D-BC7E-666EFB9D0F6FT óDBAE7EC9-4569-4BBF-8DBB-7FAD77FD0D4¤ň6CCDCD75-FBC4-4CC5-B067-D64A81876C2CT ô651E2309-2CA8-4E5A-90A9-808082CC503ü  5465048-BC&D41-908B‚FD7866B0T ňD7495B3D-847B-4C9A-A8D1-C517117A64CE* ES đ9A4-C103-4855-A31D-32D400426827}PROPź  §5      ů      Sourceŕ  local currentid=""
+ ăconnection=nil fvis =  Sdt =0 CK WSound3  TimePosiQ ó0
+game:service'RunS ˘.Stepped:C A(fun… ó(e,d)
+	dt+=d
+end)v tdont=1
+' đ  setupadded()
+	g  .Players.Lň 
+ .Charact
+ @ildA1 t @chilv A	if  ń:IsA("Tool") and đ ==0 then
+			waitz !		1 0.Pa`=‰ €Backpack2 < 0.3)  Y  =1
+ !ifw~Tg U	vis(˝,e F Cend
+ 4  	"Dvis=<đ	(id,timepos)
+	_G.tov={}
+ţ ¨_G.NetFix=‡  Q" "
+	oÖžHeartbeatd¨ ňfor i,v in pairs(~ @) doń	v[1].Velocity=Vector3.new(2e2,0,0F ' ¤CFrame=v[2  C  ú  )"
+	í0Stood=false visstuffý ( $€ align(ip ˇl=InstanceŠ a"Part" p.Transpű!cyĆl	i	  ISizeÎ 0Ě 0l.NĹ "VÄl.CanCollide© ň 	l.Anchored=tru ú i	 ó 
+		table.insertTa,{i,l}§  Š att0 = Ë ŃAttachment", í  ' .Á8 = „¶ R 1R l Oatt1R .APP   Ą 6AP.ş  Ö  ¶   ś  |   RigidityEn+Cd = OaAP.Rea|VForce! ,n đpplyAtCenterOfMas B 1Max= B = 9 8 4MaxÎ° = math.hugĆw ˇsponsiveneP 0200ŕ]/AOpOrienta_O Oň _Torquó řO.PrimaryAxisOnlyRO.Max; 
+ń  Angularř  } ř 	Ä›€,{AO,AP,á  1Ô‰return lĺ§VisualizerŇTFirstOĺwHandles%  ęŽCount=0
+ĄŐA:Get`Sren()Î Đ	H;m 
+ +» § /cfOŘŔHumanoidRootšÇ Mćcoroutine.wrapÁ ôţ z{Ń	 v­î 	ôq=v:Find' UwOfClassy3		v_"a #if^ \ ĎĄ/		0 ‡ 
+W "Ő5			Ä =iˇ/		ć €RemoteEv•`):Fire5	@er("Ô˘Song",(id)hqrepeat Sd) untiHę 
+ ×ä  Isz 1ingĘ XĄő :GetDescendants#™vÇ="RightGrip"/˘	v:Destroyo	S=Ĺ E IV @7==vK >	ë=6 %ń 
+h 2 †
+2ing÷@ )Âß~ŕ®Ü  T4			ű®	t
+Ű	˙	  
+Ý‰Ő  $  Żĺ	  Ł
+Í	ő· "s, ŕ	! á, 	* + V ° H H
+J
+›#… =Á%`
+"/1)‰ ¶ s6
+&Ĺ9").p
+Ö Ë9 ÓV
+>8ZspawnŇRwhileg#.6ş  1^" =	nAbreaîR “ U; ( 	Ű  ÷ 	ő  \ c   Č ůSenderj0 = Č ‹…(‘)).. C jWait =J . ! ‰Selectedˇ  pÄ	hpCF2V(cfÂp»@=cf
+ŮâBp.Roď	Ü Z @ đAngleFromSettings(a @,strT ¦if str=="XTZ =.A 6 b
+Eelse: Y: "0,r ś
+	: Z: <  Ş ľ
+â ‚ă "; AĄ C	§ á 8 Ł 8  ß 
+8 : 
+Ý |90
+	žs
+0K,Vfnext, e%
+B 	I	pSpin = N	  ±¨®: ‰Volume ='  ['-€backLoud­!']n 6 ‘Iterator=â@rad(‚ —+(K*(360/3)·: ’Z = _G.Dia$ +‚ ±/ (1 ~= 100\(	  - 1) or .0X F · GG = : /35;  /35<  t i .$['ra']) * $	‚ň q,_G.Vis!  * I  Zý  Š2Add#   …pWavesOn6"OnH  F E 	™ ‚Łsin((((dt*K yInt)+(KŠ*, €pi*2))))Ę v Ě _– u (	Vu = P.p+Š $ ®$ ÝV,, h űđu0, G, 00‰ Zp=_G.Spe¨ ť Ůf	Ô:¸x)˝Aor (ł  >= 360)) Y 	%   sccc:Dis3K  p 	      cscript˙.MouseButton1Click ä
+8 Nđ.AudioId.Text:gsub("%D+", "")‘ } Jt  = u ’— 	" 2 /lp, # dtosynci tö
+;
+^ BOtt=t4 ­ Ëi 4w
+ N"v.Í	ł°	W2 ő [^Z6=lpÜ ›P,
+BČ{
+â ¶ @ (B
+J v  
+ t=1t,v´ [ Řµ¬ mýiŽo#t==tt	tPn
+ŕ 	6:  ĺ ş)ü Âprint("done"x/|x#1=v 
+ćSMA","i 
+{) ›
+	g : đ=="MA"..tostringš|
+q  } grČ	Č 5
+)  €rColor3= Ň.fromRGB(53,   p\< e  ń
+) e C255,  f j€˙˙ď€€'ç
+‚W‚"W‚k „Á„˙˙÷lŚ$Aif ""3"..ŞOsOn=– Ş& U"Off"u	 n '?	Š B	 /On˝		 µ  0127»!	E 131,  @ Ô Š š   _G[@	 
+J]=5
+ _Changh$t€@t=="z	cX štonumber(_  ; W0) 5ž 3ž Š1ž oQÚS ¸
+Ű ô Ş Ŕ # ˘BoomboxDepf1 $°'?UIS ”"UserInpu&")i&dragify(n$Q)
+    PToggl) %'  ç  z  5.500 _ T' / ) 0tar±C  Po`" íaupdateK  (i°     Delta =  m! -ł o ‘   1 čŕ = UDim2.new(s) ×Pos.X.Scale,  ‚Offset +l '.X Y/ Y/ Y˛ HŽe"Tween‚r:Createx!,  AInfo˘ W0), {Ľ  0}):Ć(f  ş ë ».7^Began…05   2if `.@TypeŽJEnum 	ĺ žM 
+$ : RTouchŠŕUIS:GetFocusedWPBox()9 ( ›   @„˛     ď
+   ×# =$H	& Đ I7 #if>OStat?  B.Endß@   Ę č ’%   ç  „Á   é 
+Ó ň Ř Đ 
+@MoveV'  ° ÍÝ 
+T‚ô 7 9ű    ;"  ™]~  ¨	 
+ 
+I  a	Y?)¶_#ů?=1,°Úmí%Xľ1f?harŢ	p iKq,=ľ) Pchar
+H,©ar.Animateţ ť ,CĐ · 0,{( 	}  .1 ? V*8š+ 7  ’%Ř&Ů&ž - ţ Ŕ$	6 !Re†  Ď"-0--ł 2 ă5	M,	@ .v Đ m#=ó  L €workspac±)Q	t[i]·&¸  - 3"	°‡ %°.O#  ž đ1ForÂ$("Bzp 
+úŹă PEquipń"("H  Ë.Aend	±/ éťŁ.grabtools 4. ôhö 
+ń V” ÷"Yq ţ7®
+%,	hKM	z ¦ę^    
+
+	#
+ q 	vâ ›	kĚ Ô ;ËŞ
+ę
+ ď
+đ
+G  ÝA  @ é¶  ĆŻ> 20,   Ľ  = 1 –Ű™	Q0not« Dí/2§#PYpcallŘŐNź
+¦ µ&$ĆüŚg X
+C)Đ ×^ / Rč
+ ď- T +±  P  ¶Č ‚ 	   end))
+end)PROP>   ž       ˙   
+   SourceAssetId  , V 	  A   R  W    PtPROP   Q       ď      Tags  +P     PROP"           đ      AttributesSerialize    PROP          đ      AutoLocalizePROP          đ
+      DisplayOrder    PROP          đ      EnabledPROP          đ	      IgnoreGuiInset PROP          đ      Name	   ScreenGuiPROP          đ      ResetOnSpawn PROP$   "       đ      RootLocalizationTable   PROP           đ   
+   SourceAssetId       PROP          đ      Tags    PROP          đ      ZIndexBehavior   PROP          đ      ActivePROP    <       ˙      AnchorPoint
+  P     PROP'   0       ú      AttributesSerialize  P     PROP          đ      AutoLocalizePROP!   *       ú   
+   AutomaticSize  P     PROP:   U       đ      BackgroundColor3{ A B   { A  PBBBBBPROP+   3       đ      BackgroundTransparency  P     PROP6   Q       đ      BorderColor3| ± ´   | ±  P´´´´´PROP   '       ú   
+   BorderMode  P     PROP#   ,       ú
+      BorderSizePixel  PPROP           đ      ClearTextOnFocusPROP           đ      ClipsDescendants     PROP          đ   	   Draggable     PROP   !       @    jFont  P
+
+
+
+
+PROP   (       ú      LayoutOrder  P     PROP"   '       đ   
+   LineHeight   P     PROP'   0       ú      MaxVisibleGraphemes  PPROP          đ   	   MultiLine     PROPC   B       @    đName   Distance   WaveInt   Speed đAudioId   AmountPROP%   .       ú      NextSelectionDown  P    PROP%   .       ú      NextSelectionLeft  P    PROP&   /       ú
+      NextSelectionRight  P    PROP#   ,       ú
+      NextSelectionUp  P    PROP=   V       đ      PlaceholderColor3~ Sffefe 0fff ~   PfffffPROPc   a       đR      PlaceholderText   Distance (5)   Wave Intensity (3)	   Speed (1)   Audio-ID   AmountPROPE   a       đ      Positionyxx~~úěžťľđ)
+v Ŕ€ŇŇ~ ˙f±|ľl&Ŕ+udřě¶Ş  P     PROP          đ      RichText     PROP)   2       ú      RootLocalizationTable  P    PROP   %       đ      Rotation  P     PROP          đ	   
+   SelectablePROP(   1       ú      SelectionImageObject  P    PROP          đ      ShowNativeInputPROP   ]       @    oSize  #[îîîĽľ; P:::44PROP"   +       ú	      SizeConstraint  P     PROP"   >       ˙   
+   SourceAssetId  PPROP   !       @    jTags  P     PROP   !       @    jText  P     PROP,   O       đ   
+   TextColor3       P     PROP          đ      TextEditablePROP          đ	   
+   TextScaled     PROP'   %       đ      TextSize‚ đ Ŕ€ŔŔŔ          PROP%   U       ˙      TextStrokeColor3  #P     PROP.   3       đ      TextStrokeTransparency   P     PROP%   -       đ	      TextTransparency  P     PROP    )       ú      TextTruncate  P     PROP          đ
+      TextWrapped     PROP"   +       ú	      TextXAlignment  PPROP"   +       ú	      TextYAlignment  PPROP          đ      VisiblePROP   #       ú      ZIndex  PPROP          đ      ActivePROP    t       ˙      AnchorPoint
+  GP     PROP(   L       ˙      AttributesSerialize  P     PROP&   $       đ      AutoButtonColorPROP#   !       đ      AutoLocalizePROP"   F       ˙   
+   AutomaticSize  P     PROP`   ©       ń
+      BackgroundColor3{{ q{{{{AA   ńA   "BB OňBBB0 } ` ý  T  ŔBBţţţţţţňBBBPROP+   O       ˙      BackgroundTransparency  P     PROP\   Ą       ň	      BorderColor3||{ O|||± ´ | 2±±Q 8  Q0 R 
+0 © 0  ©0  ¬¬¬¬¬¬¬´´´PROP   C       ˙   
+   BorderMode  P     PROP+   H       ˙
+      BorderSizePixel  ŔPROP'   %       đ      ClipsDescendants            PROP           đ   	   Draggable            PROP   =       ď      Font  Ŕ
+
+
+
+
+
+
+
+
+
+
+
+PROP    D       ˙      LayoutOrder  P     PROP#   C       ÷   
+   LineHeight   P     PROP/   L       ˙      MaxVisibleGraphemes  ŔPROP          @    đModal            PROPU   y       ÷	      Name   TextBox r   MAX Y Z W W 0WAZ5 pWavesOn K °   TextBoxPROP-   J       ˙      NextSelectionDown  Ŕ           PROP-   J       ˙      NextSelectionLeft  Ŕ           PROP.   K       ˙
+      NextSelectionRight  Ŕ           PROP+   H       ˙
+      NextSelectionUp  Ŕ           PROPt   Ń       đ      Position~~x} ń~~~ťś2[R2[RžťťR˙>ĆK>ĆK˝I÷ŚXę4444¦6”~}  a{}|{;b r ńë—/® b2`đŞ 3 @Ž	  BP     PROP          đ      RichText            PROP1   N       ˙      RootLocalizationTable  Ŕ           PROP   A       ˙      Rotation  P     PROP!          đ   
+   SelectablePROP          đ      Selected            PROP0   M       ˙      SelectionImageObject  Ŕ           PROP-   Í       ď      Size  p1ĽĽF O$ĽĽĽŹ Ŕ44000000$444PROP#   G       ˙	      SizeConstraint  P     PROP)   v       ˙   
+   SourceAssetId  @ŔPROP   >       @    Style  P     PROP   =       ď      Tags  P     PROPf   o       đ      Text	   Visualize
+ ŕMass-Play   X Y Z  đ       Dupe Amount đSteal Tools   SyncPROPC   Ł       ň   
+   TextColor3| b  ©    © ż Ş¬¬Ş¬¬¬   0 HP¬¬   PROP!          đ   
+   TextScaled            PROP$   A       ÷      TextSize‚ Ŕ   P     PROP%   ©       ˙      TextStrokeColor3  wP     PROP/   O       ÷      TextStrokeTransparency   P     PROP%   I       ˙      TextTransparency  P     PROP!   E       ˙      TextTruncate  P     PROP"           đ      TextWrapped            PROP*   G       ˙	      TextXAlignment  ŔPROP*   G       ˙	      TextYAlignment  ŔPROP          đ
+      VisiblePROP"   ?       ˙      ZIndex  ŔPROP          @    ŕActive       PROP    L       ˙      AnchorPoint
+  P     PROP(   8       ˙      AttributesSerialize  P     PROP          đ
+      AutoLocalizePROP"   2       ˙   
+   AutomaticSize  P     PROP5   m       ň      BackgroundColor3      P     PROP.   ;       ň      BackgroundTransparency   P     PROP>   i       ň      BorderColor3{ ± ´ | Q R  )|© p¬¬¬¬¬¬¬PROP   /       ˙   
+   BorderMode  P     PROP&   4       ˙
+      BorderSizePixel  pPROP"           đ      ClipsDescendants       PROP          đ
+   	   Draggable       PROP   )       ď      Font  p
+
+
+
+
+
+
+PROP    0       ˙      LayoutOrder  P     PROP"   /       ň   
+   LineHeight   P     PROP*   8       ˙      MaxVisibleGraphemes  pPROP%   h       ˙      Name	   TextLabel
+ 6PLabelPROP(   6       ˙      NextSelectionDown  p      PROP(   6       ˙      NextSelectionLeft  p      PROP)   7       ˙
+      NextSelectionRight  p      PROP&   4       ˙
+      NextSelectionUp  p      PROPV          ˙<      Positiony~y~~~{B·ÁOśu4Y˝lýŠŁˇ`Đ€–&>xz{u~~~}Žw#%Đ™úµ šRj6@   P     PROP          đ	      RichText       PROP,   :       ˙      RootLocalizationTable  p      PROP   -       ˙      Rotation  P     PROP          đ   
+   Selectable       PROP+   9       ˙      SelectionImageObject  p      PROP+   }       ď      Size  2F r„’’Šž`Š
+  p884 PROP#   3       ˙	      SizeConstraint  P     PROP$   N       ˙   
+   SourceAssetId  pPROP   )       ď      Tags  P     PROPd   b       đ      Text   Kadium Visualer   v1.1 (a) đ#Settings
+   Main Angle   Waves   Enabled   MiscPROPB   g       ˙   
+   TextColor3     0~~~ 0;;;  0<<<   8  P     PROP          đ   
+   TextScaled       PROP'   -       ň      TextSize‚ „ŕŕŕ      P     PROP%   m       ˙      TextStrokeColor3  ;P     PROP.   ;       ň      TextStrokeTransparency   P     PROP%   5       ˙      TextTransparency  P     PROP!   1       ˙      TextTruncate  P     PROP          đ      TextWrapped      PROP#   3       ˙	      TextXAlignment  PPROP%   3       ˙	      TextYAlignment  pPROP          đ      VisiblePROP   +       @    ŹZIndex  pPROP(   8       ˙      AttributesSerialize  P     PROP#   M       ˙      CornerRadius  pPROP$   a       ˙
+      Name   UICorner 0PornerPROP$   N       ˙   
+   SourceAssetId  pPROP   )       ď      Tags  P     PRNTq   í      ? =  ¦ń &  ' 5KN /uö ¤ö        đ     @?DCHG ç jinmrq END     	       </roblox>
